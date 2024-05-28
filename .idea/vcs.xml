@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/sl-express-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-demo/sl-express-xxl-job" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-mq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-dispatch/sl-express-ms-dispatch-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-driver/sl-express-ms-driver-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-driver/sl-express-ms-driver-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-driver/sl-express-ms-driver-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-courier/sl-express-ms-courier-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-courier/sl-express-ms-courier-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-courier/sl-express-ms-courier-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-trade/sl-express-ms-trade-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-trade/sl-express-ms-trade-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-trade/sl-express-ms-trade-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-transport-info/sl-express-ms-transport-info-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-transport-info/sl-express-ms-transport-info-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-transport-info/sl-express-ms-transport-info-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-web/sl-express-ms-web-courier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-web/sl-express-ms-web-customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-web/sl-express-ms-web-driver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-web/sl-express-ms-web-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-work/sl-express-ms-work-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-work/sl-express-ms-work-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-work/sl-express-ms-work-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-transport/sl-express-ms-transport-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-transport/sl-express-ms-transport-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-transport/sl-express-ms-transport-service" vcs="Git" />
+  </component>
+</project>
